@@ -1,0 +1,23 @@
+.font-styles {
+  font-family: georgia;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: #505050;
+}
+
+.no-hyperlink {
+  text-decoration:none;
+  color: inherit;
+}
+
+.menu {
+  text-align: center;
+  margin-top: 45%;
+}
