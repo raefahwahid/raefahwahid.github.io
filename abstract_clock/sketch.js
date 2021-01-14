@@ -11,11 +11,10 @@ function draw() {
   let center_y = 600/2;
   let base_size = 150;
   
-  if  (curr_min != minute())
-	{
-		console.log(minute());
-		curr_min = minute();
-	}
+  if  (curr_min != minute()) {
+	  console.log(minute());
+	  curr_min = minute();
+  }
   
   s = map(second(), 0, 60, 0, TWO_PI);
   noFill();
