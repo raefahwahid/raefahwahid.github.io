@@ -6,6 +6,11 @@
 A creative interpretation of a clock. Made for COMS 4995.9: Intro to Data Visualization.
 
 
+## Online Extractive Text Summarization Using Deep Reinforcement Learning
+[GitHub Repository](https://github.com/raefahwahid/drl_text_summarization) <br /><br />
+The task of text summarization is often difficult to automate because of sparse language data and the ambiguous definition of what precisely constitutes a “summary.” For the former issue, deep learning was originally combined with reinforcement learning in order better extract and use multi-dimensional features, like language data. For the latter issue, the reward systems and metrics that are so integral to deep reinforcement learning provide a unique opportunity for a model to learn its own definition of a “summary.” Essentially, deep reinforcement learning can be used to improve upon traditional text summarization techniques, which are often computationally heavy due to their semantic and algorithmic natures. Using a purely extractive online text summarization approach and the BLEU metric as a reward system, we create an agent that produces summaries from news articles.*(Final Project for COMS 6998: Practical Deep Learning Systems by Raefah Wahid & Gauri Narayan.)*
+
+
 ## Exploring Methods of Metaphor Detection Using Similarity
 [Jupyter Notebook](https://github.com/raefahwahid/raefahwahid.github.io/blob/main/metaphor_detection/metaphor_detection.ipynb) (compiled using Google Colab)<br />
 [Poster](https://github.com/raefahwahid/raefahwahid.github.io/blob/main/metaphor_detection/group08_poster%5BMetaphorDetection%5D-1.pdf) <br /><br />
